@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SDET">
+
+	<listeners>
+		<listener class-name="com.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="loing Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.testCases.TC_LoginTest_001" />
+		</classes>
+	</test>
+	<test name="Directory Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.testCases.TC_SearchDirectoryTest_002" />
+		</classes>
+	</test>
+	<test name="Admin Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.testCases.TC_AdminPageTest_003" />
+		</classes>
+
+	</test>
+
+</suite>
