@@ -303,3 +303,13 @@
 2019-05-15 19:38:01,057 [main] INFO ebanking - Entered username
 2019-05-15 19:38:01,364 [main] INFO ebanking - Entered password
 2019-05-15 19:38:04,876 [main] INFO ebanking - Log in successful
+2019-05-16 11:52:51,538 [main] INFO ebanking - URL is opened
+2019-05-16 11:52:52,650 [main] INFO ebanking - Entered username
+2019-05-16 11:52:53,217 [main] INFO ebanking - Entered password
+2019-05-16 11:52:55,473 [main] INFO ebanking - Log in successful
+2019-05-19 21:59:54,710 [main] INFO SDET - URL is opened
+2019-05-19 21:59:55,977 [main] INFO SDET - Entered username
+2019-05-19 21:59:57,159 [main] INFO SDET - Entered password
+2019-05-19 22:03:48,566 [main] INFO SDET - URL is opened
+2019-05-19 22:03:48,798 [main] INFO SDET - Entered username
+2019-05-19 22:03:48,916 [main] INFO SDET - Entered password

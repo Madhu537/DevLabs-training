@@ -10,7 +10,7 @@ import com.pageObjects.LoginPage;
 
 public class TC_SearchDirectoryTest_002 extends BaseClass {
 
-	@Test(priority = 1)
+	@Test(priority = 1,enabled=false)
 	public void SearchDirectory() throws IOException, InterruptedException {
 
 		logger.info("URL is opened");

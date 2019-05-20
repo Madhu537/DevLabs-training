@@ -17,7 +17,7 @@ public class TC_LoginTest_001 extends BaseClass
 	public void loginTest() throws IOException 
 	{
 			
-		logger.info("URL is launched");
+		logger.info("URL is opened");
 		
 		LoginPage lp=new LoginPage(driver);
 		lp.setUserName(username);

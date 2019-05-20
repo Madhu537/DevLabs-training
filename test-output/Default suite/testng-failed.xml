@@ -6,8 +6,8 @@
     <classes>
       <class name="com.testCases.TC_SearchDirectoryTest_002">
         <methods>
-          <include name="loginTest"/>
           <include name="setup"/>
+          <include name="SearchDirectory"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.testCases.TC_SearchDirectoryTest_002 -->

@@ -27,5 +27,12 @@
 		</classes>
 
 	</test>
+	
+	<test name="Leave Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.testCases.TC_AssignLeave_004" />
+		</classes>
+	</test>
 
 </suite>

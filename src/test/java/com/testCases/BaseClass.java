@@ -39,7 +39,7 @@ public class BaseClass {
 	@BeforeClass
 	public void setup(String br)
 	{			
-		logger = Logger.getLogger("ebanking");
+		logger = Logger.getLogger("SDET");
 		PropertyConfigurator.configure("Log4j.properties");
 		
 		if(br.equals("chrome"))
